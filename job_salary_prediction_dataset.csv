@@ -1,0 +1,145 @@
+job_title,experience_years,remote_work,Average of salary
+AI Engineer,0-4,Hybrid,149656.3891
+AI Engineer,0-4,No,149985.8565
+AI Engineer,0-4,Yes,155319.7836
+AI Engineer,5-9,Hybrid,164152.7947
+AI Engineer,5-9,No,164045.9096
+AI Engineer,5-9,Yes,169578.77
+AI Engineer,10-14,Hybrid,176511.6903
+AI Engineer,10-14,No,177325.587
+AI Engineer,10-14,Yes,180916.6136
+AI Engineer,15-20,Hybrid,193355.7078
+AI Engineer,15-20,No,191432.2023
+AI Engineer,15-20,Yes,197647.6672
+Backend Developer,0-4,Hybrid,116123.2259
+Backend Developer,0-4,No,115650.7154
+Backend Developer,0-4,Yes,121863.1132
+Backend Developer,5-9,Hybrid,129810.532
+Backend Developer,5-9,No,129880.9658
+Backend Developer,5-9,Yes,133671.1637
+Backend Developer,10-14,Hybrid,143176.2152
+Backend Developer,10-14,No,141980.2532
+Backend Developer,10-14,Yes,148645.2268
+Backend Developer,15-20,Hybrid,157163.9727
+Backend Developer,15-20,No,157501.4746
+Backend Developer,15-20,Yes,163485.303
+Business Analyst,0-4,Hybrid,98818.93028
+Business Analyst,0-4,No,98368.66298
+Business Analyst,0-4,Yes,103633.6572
+Business Analyst,5-9,Hybrid,111865.003
+Business Analyst,5-9,No,112556.5986
+Business Analyst,5-9,Yes,118576.2132
+Business Analyst,10-14,Hybrid,125880.3671
+Business Analyst,10-14,No,125670.1732
+Business Analyst,10-14,Yes,132064.3899
+Business Analyst,15-20,Hybrid,141899.9965
+Business Analyst,15-20,No,140669.8093
+Business Analyst,15-20,Yes,146873.4425
+Cloud Engineer,0-4,Hybrid,128831.6929
+Cloud Engineer,0-4,No,128890.6879
+Cloud Engineer,0-4,Yes,134010.7463
+Cloud Engineer,5-9,Hybrid,142155.3223
+Cloud Engineer,5-9,No,142957.5533
+Cloud Engineer,5-9,Yes,146885.6256
+Cloud Engineer,10-14,Hybrid,156219.368
+Cloud Engineer,10-14,No,155777.2396
+Cloud Engineer,10-14,Yes,159420.4288
+Cloud Engineer,15-20,Hybrid,170761.3457
+Cloud Engineer,15-20,No,171766.1525
+Cloud Engineer,15-20,Yes,175089.8068
+Cybersecurity Analyst,0-4,Hybrid,125677.465
+Cybersecurity Analyst,0-4,No,125185.5821
+Cybersecurity Analyst,0-4,Yes,132043.1647
+Cybersecurity Analyst,5-9,Hybrid,139590.5913
+Cybersecurity Analyst,5-9,No,137541.511
+Cybersecurity Analyst,5-9,Yes,144150.577
+Cybersecurity Analyst,10-14,Hybrid,152322.7131
+Cybersecurity Analyst,10-14,No,152367.9258
+Cybersecurity Analyst,10-14,Yes,158395.8829
+Cybersecurity Analyst,15-20,Hybrid,167286.7364
+Cybersecurity Analyst,15-20,No,165855.9371
+Cybersecurity Analyst,15-20,Yes,172689.459
+Data Analyst,0-4,Hybrid,96479.91907
+Data Analyst,0-4,No,96975.26492
+Data Analyst,0-4,Yes,101391.4641
+Data Analyst,5-9,Hybrid,110505.5852
+Data Analyst,5-9,No,109705.841
+Data Analyst,5-9,Yes,115040.462
+Data Analyst,10-14,Hybrid,123014.1211
+Data Analyst,10-14,No,122695.9485
+Data Analyst,10-14,Yes,129015.7782
+Data Analyst,15-20,Hybrid,138236.1884
+Data Analyst,15-20,No,139178.0162
+Data Analyst,15-20,Yes,143657.4942
+Data Scientist,0-4,Hybrid,122534.5352
+Data Scientist,0-4,No,123462.4305
+Data Scientist,0-4,Yes,129148.6653
+Data Scientist,5-9,Hybrid,137075.9941
+Data Scientist,5-9,No,135961.7153
+Data Scientist,5-9,Yes,142761.4627
+Data Scientist,10-14,Hybrid,150352.9052
+Data Scientist,10-14,No,150740.3249
+Data Scientist,10-14,Yes,156751.1698
+Data Scientist,15-20,Hybrid,165591.3175
+Data Scientist,15-20,No,165639.3358
+Data Scientist,15-20,Yes,171404.0141
+DevOps Engineer,0-4,Hybrid,126410.9891
+DevOps Engineer,0-4,No,126816.9136
+DevOps Engineer,0-4,Yes,132791.5308
+DevOps Engineer,5-9,Hybrid,139678.2174
+DevOps Engineer,5-9,No,140802.6515
+DevOps Engineer,5-9,Yes,145354.5495
+DevOps Engineer,10-14,Hybrid,153809.9946
+DevOps Engineer,10-14,No,153479.8992
+DevOps Engineer,10-14,Yes,158509.8333
+DevOps Engineer,15-20,Hybrid,169019.7261
+DevOps Engineer,15-20,No,168824.8854
+DevOps Engineer,15-20,Yes,172141.45
+Frontend Developer,0-4,Hybrid,109644.6611
+Frontend Developer,0-4,No,109193.8961
+Frontend Developer,0-4,Yes,115024.613
+Frontend Developer,5-9,Hybrid,123266.0662
+Frontend Developer,5-9,No,123077.136
+Frontend Developer,5-9,Yes,129449.5519
+Frontend Developer,10-14,Hybrid,136307.1345
+Frontend Developer,10-14,No,136549.1173
+Frontend Developer,10-14,Yes,140862.5246
+Frontend Developer,15-20,Hybrid,151993.9463
+Frontend Developer,15-20,No,151751.6143
+Frontend Developer,15-20,Yes,156213.9525
+Machine Learning Engineer,0-4,Hybrid,138669.4614
+Machine Learning Engineer,0-4,No,139332.7231
+Machine Learning Engineer,0-4,Yes,145442.1444
+Machine Learning Engineer,5-9,Hybrid,153184.4825
+Machine Learning Engineer,5-9,No,152912.5769
+Machine Learning Engineer,5-9,Yes,158027.4429
+Machine Learning Engineer,10-14,Hybrid,165948.418
+Machine Learning Engineer,10-14,No,168276.6248
+Machine Learning Engineer,10-14,Yes,171827.6615
+Machine Learning Engineer,15-20,Hybrid,181018.1819
+Machine Learning Engineer,15-20,No,182464.741
+Machine Learning Engineer,15-20,Yes,187609.1662
+Product Manager,0-4,Hybrid,134378.949
+Product Manager,0-4,No,134965.6887
+Product Manager,0-4,Yes,139875.8151
+Product Manager,5-9,Hybrid,148657.8086
+Product Manager,5-9,No,147808.009
+Product Manager,5-9,Yes,153225.7747
+Product Manager,10-14,Hybrid,161681.9076
+Product Manager,10-14,No,161234.873
+Product Manager,10-14,Yes,166410.9162
+Product Manager,15-20,Hybrid,175109.7543
+Product Manager,15-20,No,175107.4538
+Product Manager,15-20,Yes,180936.2834
+Software Engineer,0-4,Hybrid,118740.58
+Software Engineer,0-4,No,118524.7582
+Software Engineer,0-4,Yes,124299.9194
+Software Engineer,5-9,Hybrid,130723.4022
+Software Engineer,5-9,No,131679.4146
+Software Engineer,5-9,Yes,137532.7312
+Software Engineer,10-14,Hybrid,145485.8977
+Software Engineer,10-14,No,145283.829
+Software Engineer,10-14,Yes,151072.9845
+Software Engineer,15-20,Hybrid,159598.1341
+Software Engineer,15-20,No,160032.241
+Software Engineer,15-20,Yes,165549.0448
